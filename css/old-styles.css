@@ -56,26 +56,7 @@
    text-decoration: none;
    padding: 24px 0;
  }
- 
- .mainlogo {
-   font-family: 'Raleway', sans-serif;
-   font-weight: 700;
-   font-size: 18px;
-   line-height: 1.17;
-   letter-spacing: 0.03em;
-   color: #4d5ae5;
-   text-decoration: none;
-   text-transform: uppercase;
-   margin-right: 76px;
- }
- 
- .mainlogo-header-studio-part {
-   color: #2e2f42;
- }
- 
- .mainlogo-footer-studio-part {
-   color: #f4f4fd;
- }
+
  
  .header-nav {
    font-weight: 500;
