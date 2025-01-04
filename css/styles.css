@@ -1,3 +1,4 @@
+/* #region main */
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
@@ -60,8 +61,9 @@ button {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+/* #endregion */
 
-/* =========COMMON============ */
+/* #region common */
 
 .container {
   max-width: 320px;
@@ -92,8 +94,9 @@ button {
     padding-bottom: 120px;
   }
 }
+/* #endregion */
 
-/* ===========HEADER======== */
+/* #region header */
 
 .header {
   border-bottom: 1px solid #e7e9fc;
@@ -239,8 +242,9 @@ button {
     letter-spacing: 0.02em;
   }
 }
+/* #endregion */
 
-/* ====MOBILE MENU====== */
+/* #region mobile-menu */
 
 .mob-menu {
   background-color: #ffffff;
@@ -358,8 +362,9 @@ button {
     display: none;
   }
 }
+/* #endregion */
 
-/* ========HERO SECTION =======*/
+/* #region hero */
 
 .hero {
   padding-top: 72px;
@@ -465,8 +470,9 @@ button {
       url(../images/background-image@2x.jpg);
   }
 }
+/* #endregion */
 
-/* =========FEATURES SECTION ======*/
+/* #region features section */
 
 .visually-hidden {
   position: absolute;
@@ -562,8 +568,9 @@ button {
     font-weight: 400;
   }
 }
+/* #endregion */
 
-/* TEAM SECTION */
+/* #region team */
 
 .team-section .container {
   padding-left: 28px;
@@ -670,8 +677,9 @@ button {
     background-color: #404bbf;
   }
 }
+/* #endregion */
 
-/* =====PRODUCT SECTION ====*/
+/* #region product */
 
 .product-title {
   font-weight: 700;
@@ -777,8 +785,9 @@ button {
     transform: translateY(0);
   }
 }
+/* #endregion */
 
-/* ==============FOOTER ==========*/
+/* #region footer */
 
 .footer {
   background-color: #2e2f42;
@@ -959,8 +968,9 @@ button {
     background-color: #404bbf;
   }
 }
+/* #endregion */
 
-/* ========== MODAL BACKDROP ========= */
+/* #region modal and backdrop */
 
 .backdrop {
   position: fixed;
@@ -1209,3 +1219,5 @@ button {
     background-color: #404bbf;
   }
 }
+
+/* #endregion */
